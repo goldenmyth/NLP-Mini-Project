@@ -1,0 +1,11 @@
+datasets
+gensim
+numpy
+matplotlib
+torch
+scikit-learn
+pandas
+seaborn
+scipy
+statsmodels
+tqdm

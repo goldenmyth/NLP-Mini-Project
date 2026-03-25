@@ -1,0 +1,36 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb~  # резервные копии
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.parquet
+
+*.log
+*.tmp
+*.bak
