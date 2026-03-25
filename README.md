@@ -38,7 +38,7 @@ Statistical Significance: McNemar's test (p<0.05) proves that positional displac
 ### Option 1: Google Colab (Recommended)
 
 The easiest way to run:
-```![alt text](https://colab.research.google.com/drive/13F20cX8lhGzRwzb4h8-fSZfzqNZLoI6e?usp=sharing)```
+[Google Colab NLP Mini project](https://colab.research.google.com/drive/13F20cX8lhGzRwzb4h8-fSZfzqNZLoI6e?usp=sharing)
 
 ### Option 2: Local Installation
 

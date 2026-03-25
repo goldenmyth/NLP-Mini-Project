@@ -43,7 +43,7 @@ While word order is a fundamental component of natural language, mapping embeddi
 
 **Shift Dynamics:** We measured accuracy as text shifted from 0 to 20 tokens. **Mean Pooling** remained nearly absolute , proving that for topic classification, keyword presence is more critical than specific coordinates. In contrast, both Flatten models showed rapid degradation.
 
-[Accuracy Drop Chart](/solution/images/relative_accur_drop.png)
+![Accuracy Drop Chart](/solution/images/relative_accur_drop.png)
 *Figure 1: Accuracy drop across different models during positional shift.*
 
 Table 1 summarizes the degradation trends. The Position-Aware model exhibited the steepest decline (Slope: -0.540), indicating that explicit positional signals may anchor representations too strictly to their original indices.
@@ -60,7 +60,7 @@ Table 1 summarizes the degradation trends. The Position-Aware model exhibited th
 
 **Qualitative Error Trends:** Analysis of the Difference Matrix (Figure 2) at Shift 10 reveals specific linguistic vulnerabilities in the POS model compared to the baseline.
 
-[Difference matrix](/solution/images/diff_matrix.png)
+![Difference matrix](/solution/images/diff_matrix.png)
 *Figure 2: Difference matrix POS minus Mean Pooling (shift = 10).*
 
 - **Class-Specific Degradation:** The most substantial accuracy loss occurred in the Business (-10%) and Sports (-6%) categories.
