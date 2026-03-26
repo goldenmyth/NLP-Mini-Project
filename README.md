@@ -24,7 +24,7 @@ Statistical Significance: McNemar's test (p<0.05) proves that positional displac
 ---
 ## Repository Structure
 
-`REPORT.md` — Complete report with statistical test interpretations.
+`Report.md` — Complete report with statistical test interpretations.
 
 `solution/mini_project.ipynb` — The main Jupyter Notebook with data loading, training, and evaluations.
 
