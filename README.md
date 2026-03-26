@@ -1,5 +1,5 @@
 # NLP Mini-Project (Module 3)
-# Positional Fragility: Quantifying Representation Stability under Contextual Shifts
+# Positional Fragility: Assessing Positional Sensitivity in Vector-Based Classifiers
 
 This study investigates how positional information affects the accuracy and stability of text classification models under spatial shifts.
 ### **[Read the Full Report](/Report.md)**

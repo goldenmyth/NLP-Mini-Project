@@ -1,4 +1,4 @@
-# Positional Fragility: Quantifying Representation Stability under Contextual Shifts
+# Positional Fragility: Assessing Positional Sensitivity in Vector-Based Classifiers
 
 ### **[Back to README](/README.md)**
 
