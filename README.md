@@ -7,7 +7,7 @@ This study investigates how positional information affects the accuracy and stab
 ---
 ## Project Idea & Assignment Tracks
 
-This project combines Track 2 (Embedding-Based Classifiers) and Track 4 (Quantitative Studies).
+This project combines Track 2 (Embedding-Based Classifiers) and Track 4 (Quantitative Studies). The primary focus is on analyzing how positional shifts influence model accuracy and representation stability.
 
 The core idea:
 While position is vital for text understanding, "naive" methods like Flattening create a rigid dependency on absolute coordinates. We compare standard semantic embeddings (Mean Pooling) with position-aware models (Standard Flatten and Explicit Pos-Aware) to quantify how much accuracy we lose when text shifts.
