@@ -4,6 +4,7 @@
 This study investigates how positional information affects the accuracy and stability of text classification models under spatial shifts.
 ### **[Read the Full Report](/Report.md)**
 
+[Presentation](https://docs.google.com/presentation/d/14V-ZzplQq09Nik-fq2FZbp9jQI0aPT1pIY6vsb4xei8/edit?usp=sharing)
 ---
 ## Project Idea & Assignment Tracks
 
@@ -38,7 +39,7 @@ Statistical Significance: McNemar's test (p<0.05) proves that positional displac
 ### Option 1: Google Colab (Recommended)
 
 The easiest way to run:
-[Google Colab NLP Mini project](https://colab.research.google.com/drive/13F20cX8lhGzRwzb4h8-fSZfzqNZLoI6e?usp=sharing)
+[Google Colab NLP Mini project](https://docs.google.com/presentation/d/14V-ZzplQq09Nik-fq2FZbp9jQI0aPT1pIY6vsb4xei8/edit?usp=sharing)
 
 ### Option 2: Local Installation
 
